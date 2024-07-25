@@ -61,7 +61,7 @@ console.log(sentence.includes('samuel'))
 //whether it start with a particular str
 console.log(sentence.startsWith('goat'))
 
-//whether it ends with a particular str
+//whether it ends with a particular st
 console.log(sentence.endsWith('the'))
 
 

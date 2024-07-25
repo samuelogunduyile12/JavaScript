@@ -10,7 +10,7 @@ const fifth = document.getElementsByClassName('list')
 
 const tag = document.getElementsByTagName('li')
 
-const nine = document.querySelector('li:nth-of-typeof(9)')
+const nine = document.querySelector('li:nth-of-type(9)')
 
 
 
